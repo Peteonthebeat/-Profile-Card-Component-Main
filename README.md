@@ -37,16 +37,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I wouldn't say I learned anything particularly 'new.' On the oher hand, I got to practice positiong more than one images for background, and positioning a child outside of <div>
+I wouldn't say I learned anything particularly 'new.' On the oher hand, I got to practice positiong more than one images for background, and positioning a child outside of <div>.
 
 
 ### Continued development
 
-I plan to continue doing these challenges and back that with the book 'Java Script For Kids' by @skilldrick
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
+I plan to continue doing these challenges and couple that with the book 'Java Script For Kids' by @skilldrick...
 
 ## Author
 
