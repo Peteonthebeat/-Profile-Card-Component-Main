@@ -1,0 +1,90 @@
+/* Reset */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@200;300;400;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+/* Colors */
+/* Fonts */
+/* Body */
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2.5em;
+  margin: 0 auto;
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 18px;
+  background-color: hsl(185deg, 75%, 39%);
+  background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+  background-position: right 40vw bottom 55vh, left 40vw top 55vh;
+  background-repeat: no-repeat, no-repeat;
+  /* Container */
+}
+body .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+body .container .pattern {
+  border-radius: 1em 1em 0 0;
+}
+body .container .card {
+  text-align: center;
+  background-color: white;
+}
+body .container .card img {
+  position: relative;
+  top: -2.9em;
+  border-radius: 3em;
+  border: 4px solid white;
+}
+body .container .card h1 {
+  font-size: 20px;
+  color: hsl(227deg, 10%, 46%);
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+body .container .card h1 span {
+  color: hsl(229deg, 23%, 23%);
+  font-weight: 700;
+}
+body .container .card h2 {
+  font-weight: 400;
+  color: hsl(0deg, 0%, 59%);
+  font-size: 18px;
+  line-height: 2em;
+}
+body .container .card h1, body .container .card h2 {
+  position: relative;
+  top: -1.7em;
+}
+body .stats {
+  border-top: 0.5px solid hsl(227deg, 10%, 46%);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+  padding: 1.5em 1em;
+  border-radius: 0 0 1em 1em;
+}
+body .stats li {
+  text-align: center;
+  font-weight: 400;
+  color: hsl(227deg, 10%, 46%);
+  font-size: 0.6em;
+  letter-spacing: 2px;
+}
+body .stats li span {
+  font-size: 1.7em;
+  font-weight: 700;
+  line-height: 1.8em;
+  color: hsl(229deg, 23%, 23%);
+  letter-spacing: 1px;
+}/*# sourceMappingURL=styles.css.map */
