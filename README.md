@@ -17,9 +17,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [Acknowledgments](#acknowledgments)
 
 
-### Screenshot
-
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
@@ -35,11 +33,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
