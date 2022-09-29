@@ -101,3 +101,11 @@ body {
     }
 
 }
+
+/* Media */
+@media (min-width: 1312px) {
+    body { 
+        background-position: right 45vw bottom 55vh, left 45vw top 55vh;
+    
+    }
+}
